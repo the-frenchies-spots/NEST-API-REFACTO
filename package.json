@@ -50,6 +50,8 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.11",
     "@nestjs/cli": "^10.1.7",
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/testing": "^10.0.0",
